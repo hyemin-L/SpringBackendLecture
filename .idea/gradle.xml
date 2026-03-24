@@ -30,6 +30,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringTDO" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringTDO" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/coffeeorder" />
         <option name="modules">
           <set>
