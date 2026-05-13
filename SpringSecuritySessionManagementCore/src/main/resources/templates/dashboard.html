@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Dashboard</title>
+</head>
+<body>
+
+<h1>Dashboard</h1>
+
+<p>로그인 성공</p>
+
+<h3>인증 정보 확인</h3>
+
+<p>
+  <a href="/api/authentication-info">
+    /api/authentication-info
+  </a>
+</p>
+
+<h3>세션 속성 확인</h3>
+
+<p>
+  <a href="/api/session-attributes">
+    /api/session-attributes
+  </a>
+</p>
+
+<form method="post" action="/logout">
+
+  <input type="hidden"
+         th:name="${_csrf.parameterName}"
+         th:value="${_csrf.token}" />
+
+  <button type="submit">
+    로그아웃
+  </button>
+
+</form>
+
+</body>
+</html>

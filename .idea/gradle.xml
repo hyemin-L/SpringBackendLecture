@@ -30,6 +30,46 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurityAdvancedSession" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurityAdvancedSession" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecuritySessionManagementCore" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecuritySessionManagementCore" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringStableHigh" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringStableHigh" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringTDO" />
         <option name="modules">
           <set>

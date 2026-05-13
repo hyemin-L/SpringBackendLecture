@@ -1,0 +1,8 @@
+server:
+  servlet:
+    session:
+      timeout: 30s
+
+logging:
+  level:
+    org.springframework.security: DEBUG
